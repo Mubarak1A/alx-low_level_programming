@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFIlE -o c
+gcC $cfiLe -E -o c
