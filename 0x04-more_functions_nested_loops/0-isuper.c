@@ -1,5 +1,4 @@
-11 lines (10 sloc)  212 Bytes
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isupper - checks for uppercase character
